@@ -1,0 +1,286 @@
+body{
+    margin: 0px;
+    font-family: 'Teko', sans-serif;
+
+}
+
+.top{
+    /* position: relative; */
+    padding: 50px;
+    background-color: black;
+    padding-bottom: 100px;
+}
+
+.navi{
+    text-decoration: none;
+    /* display: inline; */
+    float: right;
+}
+
+.nitem{
+    margin: 0;
+    padding: 0;
+
+}
+
+.nlink{
+    right: 250px;
+    top: 0px;
+    float: right;
+    position: relative;
+    padding: 15px 25px;
+    display: block;
+    color: white;
+    font-size: 20px;
+    font-family: 'Teko', sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar .nav-item nav-link:hover{
+    color: tomato;
+}
+
+  .button{
+    top: 16px;
+    background-color: #ff1313;
+    border: none;
+    color: white;
+    margin: -4px -300px 0px 0px;
+    padding: 20px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 400;
+    font-family: "Teko",sans-serif;
+    top: 50px;
+    right: 20px;
+    float: right;
+  }
+
+
+.top-heading{
+    margin: 220px 150px 0 150px;
+    font-size: 5.5rem;
+    color: white;
+    font-family: 'Teko', sans-serif;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 40%;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+}
+
+/* .row-title{
+    text-align: left;
+} */
+
+.girl-pic{
+    right: 1%;
+    position: absolute;
+    width: 48%;
+    padding: 100px;
+}
+
+.middle{
+    position:relative;
+    padding-left: 40px;
+    margin: 0px 63px 0px 0px;
+}
+
+.aboutwomen{
+
+    float: left;
+    /* padding-right: 0px; */
+     padding: 0px 40px 0px 20px;
+    width: 43%;
+
+}
+
+
+.aboutrow{
+    width: 100%;
+    /* text-align: left; */
+    background-color: white;
+    /* text-align: center; */
+    padding-top: 50px;
+}
+
+.aboutintro{
+    margin-left: 100px;
+    padding: 52px 0px 0px 0px;
+    text-align: center;
+}
+/* h2{
+    font-family: 'Teko', sans-serif;
+    background-color:white;
+    color: #ff1313;
+    text-align: center;
+
+} */
+
+.aboutgym{
+    font-family: 'Teko', sans-serif;
+    background-color:white;
+    color: black;
+    text-align: center;
+    font-size: 70px;
+}
+
+h1{
+
+    /* text-align: left; */
+    font-size: 50px;
+    font-family: 'Teko', sans-serif;
+
+
+}
+
+
+.button-about{
+    top: 16px;
+    background-color: #ff1313;
+    border: none;
+    color: white;
+    margin: 0px 127px 25px 140px;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 400;
+    font-family: "Teko",sans-serif;
+    top: 50px;
+    right: 20px;
+  }
+ .middle-services{
+          background-color: black;
+          position: relative;
+          padding: 86px 68px 24px 90px;
+          margin: 90px 0px 0px 0px;
+          color: white;
+  }
+  
+  .services-heading{
+text-align: center;
+color: white;
+font-size:60px;
+  }
+
+.adheesh{
+    color: black;
+    /* background-color: white; */
+}
+
+  .card-body{
+      background-color:white;
+      color: black;
+
+  }
+
+  .cardtop{
+      background-color: white;
+      color: black;
+     
+  }
+
+  .contact-heading{
+      text-align: center;
+      color: black;
+      padding: 40px 0px 0px 0px;
+      font-size: 60px;
+  }
+
+  h2{
+      color: white;
+  }
+
+
+  build ybody{
+    background-color: #25274d;
+}
+.contact{
+    padding: 4%;
+    height: 400px;
+}
+/* .col-md-3{
+    background: #ff1313;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+} */
+
+.end-img{
+
+    width: 5%;
+}
+
+
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+.contact-form{
+    float: left;
+    width: 80%;
+    position: relative;
+    padding: 0px 0px 0px 0px;
+}
+
+.contact-img{
+     /* float: right; */
+    margin: -302px 0px 0px 0px; 
+}
+
+.contact-boy{
+    width: 35%;
+}
+
+.dev{
+    
+    margin-top: 150px;
+}
+
+.my{
+    color: black;
+}
+
+ .container-fluid{
+    text-align: center;
+    color:black;
+    
+}
+
+.social-icon{
+ margin:20px 10px;
+ text-decoration: none;
+ color: black;
+}
